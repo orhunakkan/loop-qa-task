@@ -1,0 +1,24 @@
+{
+    "name": "loop-qa-task",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx playwright test",
+        "test:headed": "npx playwright test --headed",
+        "report": "npx playwright show-report",
+        "format": "prettier --write .",
+        "format:check": "prettier --check ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "devDependencies": {
+        "@playwright/test": "^1.58.2",
+        "@types/node": "^25.3.3",
+        "dotenv": "^17.3.1",
+        "prettier": "^3.6.2",
+        "typescript": "^5.9.3"
+    }
+}

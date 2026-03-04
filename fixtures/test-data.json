@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Test Case 1 - Implement user authentication in Web Application To Do",
+        "project": "Web Application",
+        "taskName": "Implement user authentication",
+        "column": "To Do",
+        "tags": ["Feature", "High Priority"]
+    },
+    {
+        "title": "Test Case 2 - Fix navigation bug in Web Application To Do",
+        "project": "Web Application",
+        "taskName": "Fix navigation bug",
+        "column": "To Do",
+        "tags": ["Bug"]
+    },
+    {
+        "title": "Test Case 3 - Design system updates in Web Application In Progress",
+        "project": "Web Application",
+        "taskName": "Design system updates",
+        "column": "In Progress",
+        "tags": ["Design"]
+    },
+    {
+        "title": "Test Case 4 - Push notification system in Mobile Application To Do",
+        "project": "Mobile Application",
+        "taskName": "Push notification system",
+        "column": "To Do",
+        "tags": ["Feature"]
+    },
+    {
+        "title": "Test Case 5 - Offline mode in Mobile Application In Progress",
+        "project": "Mobile Application",
+        "taskName": "Offline mode",
+        "column": "In Progress",
+        "tags": ["Feature", "High Priority"]
+    },
+    {
+        "title": "Test Case 6 - App icon design in Mobile Application Done",
+        "project": "Mobile Application",
+        "taskName": "App icon design",
+        "column": "Done",
+        "tags": ["Design"]
+    }
+]
