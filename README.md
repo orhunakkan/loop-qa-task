@@ -1,6 +1,6 @@
 # Loop QA Task — Playwright Data-Driven Test Suite
 
-Automated end-to-end tests for the [Asana-style demo app](https://animated-gingersnap-8cf7f2.netlify.app/) built with **Playwright** and **TypeScript**.
+Automated end-to-end tests for the [demo app](https://animated-gingersnap-8cf7f2.netlify.app/) built with **Playwright** and **TypeScript**.
 
 ## Highlights
 
