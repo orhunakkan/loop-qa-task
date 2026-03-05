@@ -13,9 +13,7 @@ export class ProjectBoardPage {
         taskName: string,
         columnName: string,
     ) {
-        this.projectButton = this.page.getByRole('button', {
-            name: new RegExp(projectName),
-        });
+        this.projectButton = this.page.getByRole('button', { name: projectName });
 
         this.projectHeading = this.page.getByRole('heading', {
             name: projectName,
