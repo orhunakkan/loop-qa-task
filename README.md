@@ -43,14 +43,6 @@ Automated end-to-end tests for the [Asana-style demo app](https://animated-ginge
 | `APP_USERNAME` | Login username      |
 | `APP_PASSWORD` | Login password      |
 
-Create a `.env` file in the project root:
-
-```bash
-BASE_URL=https://animated-gingersnap-8cf7f2.netlify.app/
-APP_USERNAME=admin
-APP_PASSWORD=password123
-```
-
 ## Getting Started
 
 ### Prerequisites
